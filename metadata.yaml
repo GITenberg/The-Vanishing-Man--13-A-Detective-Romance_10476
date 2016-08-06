@@ -1,0 +1,28 @@
+_repo: The-Vanishing-Man--13-A-Detective-Romance_10476
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Freeman, R. Austin (Richard Austin)
+    alias: Freeman, Richard Austin
+    birthdate: 1862
+    deathdate: 1943
+    gutenberg_agent_id: '3551'
+    url: http://www.gutenberg.org/2009/agents/3551
+description: 'Published in the UK as "The Eye of Osiris". See: #24201'
+gutenberg_issued: '2003-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '10476'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Physicians -- Fiction'
+- !lcsh 'Thorndyke, Doctor (Fictitious character) -- Fiction'
+- !lcsh 'Detective and mystery stories'
+- !lcsh 'London (England) -- Fiction'
+- !lcc 'PR'
+- GITenberg
+title: "The Vanishing Man\r\nA Detective Romance"
+url: http://www.gutenberg.org/ebooks/10476
